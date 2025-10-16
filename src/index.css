@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@font-face {
+  font-family: 'Font';
+  src: url('./assets/fonts/Onest-VariableFont_wght.ttf') format('truetype');
+    font-weight: 200 700;
+    font-style: normal;
+}
+body {
+  font-family: 'Font', system-ui, -apple-system, sans-serif;
+
+}
