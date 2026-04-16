@@ -10,7 +10,7 @@ function experience() {
                 Experiencia
             </h1>
             <article className="text-xl mb-8">
-                <Timeline data={experiences} />
+             /*   <Timeline data={experiences} /> */
             </article>
 
         </section>
